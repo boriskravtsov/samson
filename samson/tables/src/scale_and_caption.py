@@ -1,4 +1,4 @@
-# Jun-02-2025
+# Jun-17-2025
 # scale_and_caption.py
 
 import os

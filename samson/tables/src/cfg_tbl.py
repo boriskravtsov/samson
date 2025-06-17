@@ -1,4 +1,4 @@
-# Jun-02-2025
+# Jun-17-2025
 # cfg_tbl.py
 
 size_shape_scale: int = 166
